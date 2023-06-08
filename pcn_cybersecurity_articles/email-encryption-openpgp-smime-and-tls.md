@@ -48,27 +48,6 @@ In summary, each of these encryption methods have their own advantages and disad
 <!-- KEYWORDS -->
 
 
-<!-- Required Divider -->
----
-<!-- Required Divider -->
-
-
-<!-- REFERENCES -->
-<!-- TASK: Add any article references below - taken from bottom of article content -->
-<!-- INSTRUCTIONS:
-     Does your article choice contain footer references?
-        Yes: Add the references below (remove or adding more lines as needed)
-        No: Delete everything between 'references' tags (only if the article does not have a reference section)
--->
-
-**References:**
-
-- [REFERENCE-1]
-- [REFERENCE-2]
-- [REFERENCE-3]
-- [REFERENCE-4]
-
-
 <!-- Required Divider - References-->
 ---
 <!-- Required Divider - References-->
@@ -82,7 +61,7 @@ In summary, each of these encryption methods have their own advantages and disad
 <!-- TASK: Add the required data fields to the table below -->
 | Published Date | Main Blog Link | License | Date Copied Over | Copied By | Written By |
 | -------------- | -------------- | ------- | ---------------- | --------- | ---------- |
-| Mar 2, 2023 | [Email Encryption: OpenPGP, S/MIME and TLS](https://profcybernaught.hashnode.dev/email-encryption-openpgp-smime-and-tls "Email Encryption: OpenPGP, S/MIME and TLS") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | [May 11, 2023] | [Rhea-xiao](https://github.com/Rhea-xiao "Rhea-xiao on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
+| Mar 2, 2023 | [Email Encryption: OpenPGP, S/MIME and TLS](https://profcybernaught.hashnode.dev/email-encryption-openpgp-smime-and-tls "Email Encryption: OpenPGP, S/MIME and TLS") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | May 11, 2023 | [Rhea-xiao](https://github.com/Rhea-xiao "Rhea-xiao on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
 
 <!-- FOOTER TABLE -->
 
