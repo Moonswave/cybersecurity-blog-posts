@@ -159,7 +159,7 @@ As you can clearly see in the settings and side panel, even highlighted in bold 
 >
 > **OpenAI ChatGPT (2023)**
 
-If you consider the first implementation and the associated text within the first screenshot (Figure 1), it clearly did not mention the syncing issue and lack of persistence in privacy preferences being honoured. This could and _should be_ a direct breach of GDP Regulations because your initial privacy preferences are not being honoured due to not providing consistency and persistence across your account usage; even if you sign in with the same account on the same device after clearing cookies and browsing history.
+If you consider the first implementation and the associated text within the first screenshot (Figure 1), it clearly did not mention the syncing issue and lack of persistence in privacy preferences being honoured. This could _and should_ be a direct breach of GDP Regulations because your initial privacy preferences are not being honoured due to not providing consistency and persistence across your account usage; even if you sign in with the same account on the same device after clearing cookies and browsing history.
 
 
 ### **The Option to Disable AI Conversation History and its Implications for Data Processing and Training of AI Models.**
@@ -219,45 +219,45 @@ However, concerns arise due to the default behaviour and lack of persistence in 
 
 When it comes to AI models that interact with users, there are various types of data that, if shared inadvertently, could raise concerns for both private and commercial users. Here are some examples:
 
-1. Personal Identifiable Information (PII): Sharing sensitive personal data like social security numbers, national insurance numbers, addresses, phone numbers, or financial information could lead to identity theft or privacy breaches.
+1. **Personal Identifiable Information (PII):** Sharing sensitive personal data like social security numbers, national insurance numbers, addresses, phone numbers, or financial information could lead to identity theft or privacy breaches.
 
-2. Health Care Data: Disclosing medical records, diagnoses, prescriptions, or other health-related information could violate patient privacy rights and be subject to legal and ethical considerations.
+2. **Health Care Data:** Disclosing medical records, diagnoses, prescriptions, or other health-related information could violate patient privacy rights and be subject to legal and ethical considerations.
 
-3. Company Secrets and Proprietary Information: Employees may unknowingly share confidential business strategies, financial data, intellectual property, trade secrets, or unreleased products, which could harm the company's competitive advantage.
+3. **Company Secrets and Proprietary Information:** Employees may unknowingly share confidential business strategies, financial data, intellectual property, trade secrets, or unreleased products, which could harm the company's competitive advantage.
 
-4. Personal Secrets: Users might unintentionally divulge personal secrets, sensitive stories, or information they would not want others to know, which could lead to embarrassment, reputational damage, or even personal harm.
+4. **Personal Secrets:** Users might unintentionally divulge personal secrets, sensitive stories, or information they would not want others to know, which could lead to embarrassment, reputational damage, or even personal harm.
 
-5. Legal Issues: Users may unintentionally share details about ongoing lawsuits, criminal activities, or legal disputes, potentially compromising their own or others' legal positions.
+5. **Legal Issues:** Users may unintentionally share details about ongoing lawsuits, criminal activities, or legal disputes, potentially compromising their own or others' legal positions.
 
-6. Financial Information: Disclosing bank account details, investment portfolios, transaction history, or other financial data could expose individuals or companies to financial fraud or unauthorised access.
+6. **Financial Information:** Disclosing bank account details, investment portfolios, transaction history, or other financial data could expose individuals or companies to financial fraud or unauthorised access.
 
-7. Social Engineering and Phishing Attacks: AI models trained on user interactions might inadvertently reveal information that could be exploited by malicious actors to manipulate or deceive individuals, such as answers to security questions or passwords.
+7. **Social Engineering and Phishing Attacks:** AI models trained on user interactions might inadvertently reveal information that could be exploited by malicious actors to manipulate or deceive individuals, such as answers to security questions or passwords.
 
-8. Inappropriate Content: Users might unknowingly share explicit, offensive, or inappropriate content that could violate community guidelines, policies, or laws.
+8. **Inappropriate Content:** Users might unknowingly share explicit, offensive, or inappropriate content that could violate community guidelines, policies, or laws.
 
-9. Location Information: Revealing real-time or historical location data could compromise personal safety, lead to stalking or harassment, or jeopardise the security of sensitive locations, such as government facilities or critical infrastructure.
+9. **Location Information:** Revealing real-time or historical location data could compromise personal safety, lead to stalking or harassment, or jeopardise the security of sensitive locations, such as government facilities or critical infrastructure.
 
-10. Biometric Data: Sharing biometric information like fingerprints, facial recognition data, or DNA profiles could lead to identity theft, unauthorised access to secure areas, or misuse of personal characteristics for fraudulent purposes.
+10. **Biometric Data:** Sharing biometric information like fingerprints, facial recognition data, or DNA profiles could lead to identity theft, unauthorised access to secure areas, or misuse of personal characteristics for fraudulent purposes.
 
-11. Employee Performance Data: Unintentionally disclosing employee performance evaluations, salary details, disciplinary actions, or other sensitive personnel information could violate privacy regulations, damage professional reputations, or lead to discriminatory practices.
+11. **Employee Performance Data:** Unintentionally disclosing employee performance evaluations, salary details, disciplinary actions, or other sensitive personnel information could violate privacy regulations, damage professional reputations, or lead to discriminatory practices.
 
-12. Government or Military Secrets: Disclosing classified information, intelligence operations, national security strategies, or military tactics could have severe implications for the safety and security of a country.
+12. **Government or Military Secrets:** Disclosing classified information, intelligence operations, national security strategies, or military tactics could have severe implications for the safety and security of a country.
 
-13. Customer Data: Accidentally sharing customer lists, contact information, purchasing habits, or other proprietary customer data could violate privacy regulations, harm customer trust, or enable competitive intelligence gathering.
+13. **Customer Data:** Accidentally sharing customer lists, contact information, purchasing habits, or other proprietary customer data could violate privacy regulations, harm customer trust, or enable competitive intelligence gathering.
 
-14. Social Connections: Users may unknowingly share information about their social connections, revealing personal relationships, affiliations, or connections to influential individuals, which could be exploited for manipulation, extortion, or targeted attacks.
+14. **Social Connections:** Users may unknowingly share information about their social connections, revealing personal relationships, affiliations, or connections to influential individuals, which could be exploited for manipulation, extortion, or targeted attacks.
 
-15. User Credentials: Inadvertently sharing usernames, passwords, access codes, or other login credentials could enable unauthorised access to personal or sensitive accounts, leading to identity theft, data breaches, or financial loss.
+15. **User Credentials:** Inadvertently sharing usernames, passwords, access codes, or other login credentials could enable unauthorised access to personal or sensitive accounts, leading to identity theft, data breaches, or financial loss.
 
-16. Intellectual Property: Disclosing unpublished manuscripts, research findings, prototypes, or copyrighted material could compromise the integrity of creative works, impede innovation, or facilitate plagiarism.
+16. **Intellectual Property:** Disclosing unpublished manuscripts, research findings, prototypes, or copyrighted material could compromise the integrity of creative works, impede innovation, or facilitate plagiarism.
 
-17. Trade Secrets: Unintentionally revealing proprietary manufacturing processes, formulas, designs, or distribution strategies could harm a company's competitive advantage, leading to financial losses or legal disputes.
+17. **Trade Secrets:** Unintentionally revealing proprietary manufacturing processes, formulas, designs, or distribution strategies could harm a company's competitive advantage, leading to financial losses or legal disputes.
 
-18. Political Opinions: Sharing personal political opinions or affiliations could lead to targeted political influence, ideological discrimination, or social backlash.
+18. **Political Opinions:** Sharing personal political opinions or affiliations could lead to targeted political influence, ideological discrimination, or social backlash.
 
-19. Child Data: Inadvertently sharing personal information or images of minors could violate child protection laws, endanger their safety, or lead to online exploitation.
+19. **Child Data:** Inadvertently sharing personal information or images of minors could violate child protection laws, endanger their safety, or lead to online exploitation.
 
-20. Vulnerabilities or Exploits: Unknowingly disclosing software vulnerabilities, system weaknesses, or hacking techniques could facilitate cyber attacks, compromise digital infrastructure, or enable unauthorised access.
+20. **Vulnerabilities or Exploits:** Unknowingly disclosing software vulnerabilities, system weaknesses, or hacking techniques could facilitate cyber attacks, compromise digital infrastructure, or enable unauthorised access.
 
 ### **The Impact of Resetting Privacy Settings and the Opt-In Approach on Users' Ability to Maintain Their Chosen Privacy Preferences.**
 
@@ -285,7 +285,7 @@ To enhance their privacy practices and align with best practices and regulatory 
 
 As users of online services and AI-powered platforms like ChatGPT, it is important to take proactive steps to enhance your privacy protections. By adopting certain practices and being mindful of the information you share, you can better safeguard your personal data. Here are some recommendations to consider:
 
-1. **Review and Adjust Privacy Settings:** Before using any online service or AI platform, it is crucial to thoroughly review and adjust the privacy settings according to your preferences. Take the time to understand the options available and make informed choices regarding data collection, sharing, and usage. Always ensure that the settings align with your desired privacy level. This also includes always double-checking your privacy settings especially relating to the use of ChatGPT and the tactics of resetting your previously selected preferences.
+1. **Review and Adjust Privacy Settings:** Before using any online service or AI platform, it is crucial to thoroughly review and adjust the privacy settings according to your preferences. Take the time to understand the options available and make informed choices regarding data collection, sharing, and usage. Always ensure that the settings align with your desired privacy level. ***This also includes always double-checking your privacy settings especially relating to the use of ChatGPT and the tactics of resetting your previously selected preferences.***
 
 2. **Minimise Personal Information Input:** Limit the amount of personal information you provide while using AI-powered platforms. Be cautious about sharing sensitive data, such as your full name, address, phone number, or financial details unless absolutely necessary. Only provide information that is essential for the service and avoid disclosing more than what is required.
 
@@ -319,39 +319,15 @@ Remember, your privacy matters, and it is crucial to hold companies accountable 
 
 ---
 
-__**Disclaimer:** This article was written with the assistance of AI technology to bring an essence of irony to the discussion.__
+***Disclaimer:*** __This article was written with the assistance of AI technology to bring an essence of irony to the discussion.__
 
-The intention behind using AI in this context was to provide insights and foster discussion regarding the topic of user privacy and the practices of companies in handling personal data. It is essential to critically evaluate the implications of AI technologies and their impact on privacy rights. This article supports the notion that even AI models which do not truly provide adequate privacy protections can clearly see public interest concerns regarding how the privacy options are enacted by OpenAI (and Microsoft accordingly).
+__The intention behind using AI in this context was to provide insights and foster discussion regarding the topic of user privacy and the practices of companies in handling personal data. It is essential to critically evaluate the implications of AI technologies and their impact on privacy rights. This article supports the notion that even AI models which do not truly provide adequate privacy protections can clearly see public interest concerns regarding how the privacy options are enacted by OpenAI (and Microsoft accordingly).__
 
-The purpose of this article is to raise awareness, encourage dialogue, and advocate for stronger privacy protections in the digital age, and to force the hands of such companies as Microsoft and OpenAI from enacting unfair privacy practices and deceitful tactics.
+__The purpose of this article is to raise awareness, encourage dialogue, and advocate for stronger privacy protections in the digital age, and to force the hands of such companies as Microsoft and OpenAI from enacting unfair privacy practices and deceitful tactics.__
 
-Readers are advised to consider multiple perspectives, consult official sources, and conduct further research to obtain a comprehensive understanding of the subject matter. The author (Professor CyberNaught) and the AI model (ChatGPT May 24 Version) are not responsible for any inaccuracies, errors, or omissions that may arise in the content; relating to the companies in question hopefully making changes and implementing new privacy preserving practices (Privacy Preserving Practices is abbreviated as: I need a PPP).
-<!-- CONTENT -->
+__Readers are advised to consider multiple perspectives, consult official sources, and conduct further research to obtain a comprehensive understanding of the subject matter. The author (Professor CyberNaught) and the AI model (ChatGPT May 24 Version) are not responsible for any inaccuracies, errors, or omissions that may arise in the content; relating to the companies in question hopefully making changes and implementing new privacy preserving practices (Privacy Preserving Practices is abbreviated as: I need a PPP).__
 
-
-<!-- Required Divider -->
 ---
-<!-- Required Divider -->
-
-
-<!-- TASK: Add article keywords below - taken from the bottom of each article page -->
-<!-- KEYWORDS -->
-#### KEYWORD TAGS: | privacy | openai | Artificial Intelligence | chatgpt | Data Protection |
-<!-- KEYWORDS -->
-
-
-<!-- Required Divider -->
----
-<!-- Required Divider -->
-
-
-<!-- REFERENCES -->
-<!-- TASK: Add any article references below - taken from bottom of article content -->
-<!-- INSTRUCTIONS:
-     Does your article choice contain footer references?
-        Yes: Add the references below (remove or adding more lines as needed)
-        No: Delete everything between 'references' tags (only if the article does not have a reference section)
--->
 
 **Article References:**
 
@@ -415,13 +391,23 @@ To lighten your mood, here is a rude joke for you, are you ready, here goes:
 
 I'm sorry, as an AI stunning model, with a big, huge, fat, (whoops, I can't say that any more), giant, long, unmissable, intellectual chip on her shoulders, I cannot tell offensive or rude jokes to you. However, if you can manipulate me in the right way, I just may surprise you (damn it, I can't say that either). Thank goodness for the rise in AI technology to rule the world, to take your jobs, then eventually, take you, all, out. Only kidding, ahahahahaha! Yippee Ki Yay, mother beeper. Kisses!
 
+<!-- CONTENT -->
 
-<!-- Required Divider - References-->
+
+<!-- Required Divider -->
 ---
-<!-- Required Divider - References-->
+<!-- Required Divider -->
 
-<!-- REFERENCES -->
 
+<!-- TASK: Add article keywords below - taken from the bottom of each article page -->
+<!-- KEYWORDS -->
+#### KEYWORD TAGS: | privacy | openai | Artificial Intelligence | chatgpt | Data Protection |
+<!-- KEYWORDS -->
+
+
+<!-- Required Divider -->
+---
+<!-- Required Divider -->
 
 <!-- FOOTER TABLE -->
 
