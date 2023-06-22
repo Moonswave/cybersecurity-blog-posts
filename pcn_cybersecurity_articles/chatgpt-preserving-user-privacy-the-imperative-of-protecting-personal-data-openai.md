@@ -130,7 +130,7 @@ OpenAI has made strides in addressing privacy concerns by introducing specific p
 However, the initial release of the privacy focused settings were hidden by default in the settings tab. This clearly demonstrates the company preferred users not change those settings and restrict the use of their private conversations for the benefit of training the AI model.
 
 <!-- Figure 1: Original Hidden Privacy Settings - ChatGPT Service -->
-![Figure 1: Original Hidden Privacy Settings - ChatGPT Service](cybersecurity-blog-posts\pcn_images\article_images\chatgpt_preserving_user_privacy_the_imperative_of_protecting_personal_data_openai\hidden_default_privacy_options_chatgpt.png "Figure 1: Original Hidden Privacy Settings - ChatGPT Service")
+![Figure 1: Original Hidden Privacy Settings - ChatGPT Service](../pcn_images/article_images/chatgpt_preserving_user_privacy_the_imperative_of_protecting_personal_data_openai/hidden_default_privacy_options_chatgpt.png "Figure 1: Original Hidden Privacy Settings - ChatGPT Service")
 
 The second release of the privacy settings resulted in a more dedicated tab for handling user privacy choices. This seemed much better and actively allows users to disable data sharing (which is enabled by default which could be in direct conflict with the GDPR regarding ‘active opt in’ requirements). You can turn the setting off to stop your personal data being shared for the purposes of training the AI model.
 
