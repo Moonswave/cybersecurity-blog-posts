@@ -140,23 +140,23 @@ The second release of the privacy settings resulted in a more dedicated tab for 
 However, there is a major issue with the implementation of the privacy controls for users. The privacy setting preferences for users does not carry through to other devices. This indicates the privacy preferences are being set locally on your individual device, which results in users having to change the settings back from the default “share all” status if using a different device. Clearing browser history and cookies will also result in your privacy preferences being reset to “share all” status even if you use the same device.
 
 <!-- Figure 3: Privacy settings reset to default sharing after new device used or cookies and history cleared on existing device - ChatGPT -->
-![Figure 3: Privacy settings reset to default sharing after new device used or cookies and history cleared on existing device - ChatGPT](../pcn_images\article_images\chatgpt_preserving_user_privacy_the_imperative_of_protecting_personal_data_openai\chat_history_enabled_by_default_settings_panel_chatgpt.png "Figure 3: Privacy settings reset to default sharing after new device used or cookies and history cleared on existing device - ChatGPT")
+![Figure 3: Privacy settings reset to default sharing after new device used or cookies and history cleared on existing device - ChatGPT](../pcn_images/article_images/chatgpt_preserving_user_privacy_the_imperative_of_protecting_personal_data_openai/chat_history_enabled_by_default_settings_panel_chatgpt.png "Figure 3: Privacy settings reset to default sharing after new device used or cookies and history cleared on existing device - ChatGPT")
 
 When a user logs in from a new device, you will see by default the chat history is enabled. You might not think anything of it at first but this history is also linked to the sharing of your interactions with the AI model. One setting toggle actually decides if you want chat history and whether the history can be used and shared to train the AI model.
 
 <!-- Figure 4: Default layout and look regarding privacy sharing of conversations - ChatGPT -->
-![Figure 4: Default layout and look regarding privacy sharing of conversations - ChatGPT](../pcn_images\article_images\chatgpt_preserving_user_privacy_the_imperative_of_protecting_personal_data_openai\default_settings_view_dashboard_chatgpt.png "Figure 4: Default layout and look regarding privacy sharing of conversations - ChatGPT")
+![Figure 4: Default layout and look regarding privacy sharing of conversations - ChatGPT](../pcn_images/article_images/chatgpt_preserving_user_privacy_the_imperative_of_protecting_personal_data_openai/default_settings_view_dashboard_chatgpt.png "Figure 4: Default layout and look regarding privacy sharing of conversations - ChatGPT")
 
 
 You will be required to re-enter your privacy settings and toggle your privacy preferences ‘back’ to your original choice of not sharing your personal interactive data. You can easily tell if your data is currently being shared to further train the AI model by looking at your side panel on the top left (using a PC). You will see the following status (if you had previously disabled sharing options):
 
 <!-- Figure 5: Sharing Enabled - Side Panel Evidence - ChatGPT -->
-![Figure 5: Sharing Enabled - Side Panel Evidence - ChatGPT](../pcn_images\article_images\chatgpt_preserving_user_privacy_the_imperative_of_protecting_personal_data_openai\chat_history_enabled_by_default_side_panel_view_chatgpt.png "Figure 5: Sharing Enabled - Side Panel Evidence - ChatGPT")
+![Figure 5: Sharing Enabled - Side Panel Evidence - ChatGPT](../pcn_images/article_images/chatgpt_preserving_user_privacy_the_imperative_of_protecting_personal_data_openai/chat_history_enabled_by_default_side_panel_view_chatgpt.png "Figure 5: Sharing Enabled - Side Panel Evidence - ChatGPT")
 
 If your privacy preferences were being honoured with ‘persistence’ (in accordance with GDPR regulations), you should see the following in the top left side panel:
 
 <!-- Figure 6: Privacy Preferences Set - Do Not Share - ChatGPT -->
-![Figure 6: Privacy Preferences Set - Do Not Share - ChatGPT](../pcn_images\article_images\chatgpt_preserving_user_privacy_the_imperative_of_protecting_personal_data_openai\chat_history_turned_off_side_panel_view_chatgpt.png"Figure 6: Privacy Preferences Set - Do Not Share - ChatGPT")
+![Figure 6: Privacy Preferences Set - Do Not Share - ChatGPT](../pcn_images/article_images/chatgpt_preserving_user_privacy_the_imperative_of_protecting_personal_data_openai/chat_history_turned_off_side_panel_view_chatgpt.png "Figure 6: Privacy Preferences Set - Do Not Share - ChatGPT")
 
 However, essentially what is happening is clearly a decision made by OpenAI directly; you are being forced to automatically opt back in to sharing your personal data if you decide to clear your browser history and cookies, or login from a different device.
 
@@ -326,13 +326,13 @@ Remember, your privacy matters, and it is crucial to hold companies accountable 
 
 ---
 
-***Disclaimer:*** __This article was written with the assistance of AI technology to bring an essence of irony to the discussion.__
+***Disclaimer:*** _This article was written with the assistance of AI technology to bring an essence of irony to the discussion._
 
-__The intention behind using AI in this context was to provide insights and foster discussion regarding the topic of user privacy and the practices of companies in handling personal data. It is essential to critically evaluate the implications of AI technologies and their impact on privacy rights. This article supports the notion that even AI models which do not truly provide adequate privacy protections can clearly see public interest concerns regarding how the privacy options are enacted by OpenAI (and Microsoft accordingly).__
+_The intention behind using AI in this context was to provide insights and foster discussion regarding the topic of user privacy and the practices of companies in handling personal data. It is essential to critically evaluate the implications of AI technologies and their impact on privacy rights. This article supports the notion that even AI models which do not truly provide adequate privacy protections can clearly see public interest concerns regarding how the privacy options are enacted by OpenAI (and Microsoft accordingly)._
 
-__The purpose of this article is to raise awareness, encourage dialogue, and advocate for stronger privacy protections in the digital age, and to force the hands of such companies as Microsoft and OpenAI from enacting unfair privacy practices and deceitful tactics.__
+_The purpose of this article is to raise awareness, encourage dialogue, and advocate for stronger privacy protections in the digital age, and to force the hands of such companies as Microsoft and OpenAI from enacting unfair privacy practices and deceitful tactics._
 
-__Readers are advised to consider multiple perspectives, consult official sources, and conduct further research to obtain a comprehensive understanding of the subject matter. The author (Professor CyberNaught) and the AI model (ChatGPT May 24 Version) are not responsible for any inaccuracies, errors, or omissions that may arise in the content; relating to the companies in question hopefully making changes and implementing new privacy preserving practices (Privacy Preserving Practices is abbreviated as: I need a PPP).__
+_Readers are advised to consider multiple perspectives, consult official sources, and conduct further research to obtain a comprehensive understanding of the subject matter. The author (Professor CyberNaught) and the AI model (ChatGPT May 24 Version) are not responsible for any inaccuracies, errors, or omissions that may arise in the content; relating to the companies in question hopefully making changes and implementing new privacy preserving practices (Privacy Preserving Practices is abbreviated as: I need a PPP)._
 
 ---
 
