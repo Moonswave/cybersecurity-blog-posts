@@ -70,19 +70,57 @@ If you want to delete these usage instructions, please delete everything between
 
 <!-- TASK: Add main article title between tags - taken from top of article -->
 <!-- MAIN TITLE -->
-# [ARTICLE-TITLE]
+# You do computers, right? - Poem
 <!-- MAIN TITLE -->
 
 
 <!-- TASK: Add article sub title between tags - taken from top of article underneath main title -->
 <!-- SUBTITLE -->
-## [ARTICLE-SUBTITLE]
+## A technical poem
 <!-- SUBTITLE -->
 
 
 <!-- TASK: Add article content between tags - taken from main article body -->
 <!-- CONTENT -->
-[ARTICLE-CONTENT]
+Here is a poem written by Prof Cyber Naught about the one question tech guys hate being asked: You do computers, right?
+
+Tech folks hear it all the time,
+
+**"You do computers, right?"**,
+
+But it's not just turning them on,
+
+it's a complex fight.
+
+-
+
+We code, we debug, we design,
+
+we make things work just fine.
+
+We don't just push buttons,
+
+that's not our line.
+
+-
+
+We're the ones who make the magic happen,
+
+the ones who keep the world spinning.
+
+So next time you ask, "You do computers, right?",
+
+remember, it's not just about winning.
+
+-
+
+We're tech wizards, tech gurus,
+
+tech ninjas, tech kings.
+
+So before you ask, "You do computers, right?",
+
+just remember, it's not as simple as clicking things.
 <!-- CONTENT -->
 
 
@@ -93,7 +131,7 @@ If you want to delete these usage instructions, please delete everything between
 
 <!-- TASK: Add article keywords below - taken from the bottom of each article page -->
 <!-- KEYWORDS -->
-#### KEYWORD TAGS: | [KEYWORD-1] | [KEYWORD-2] | [KEYWORD-3] | [KEYWORD-4] | [KEYWORD-5] |
+#### KEYWORD TAGS: | Poem | Technology | Technical writing | creativity | 
 <!-- KEYWORDS -->
 
 
@@ -110,13 +148,6 @@ If you want to delete these usage instructions, please delete everything between
         No: Delete everything between 'references' tags (only if the article does not have a reference section)
 -->
 
-**References:**
-
-- [REFERENCE-1]
-- [REFERENCE-2]
-- [REFERENCE-3]
-- [REFERENCE-4]
-
 
 <!-- Required Divider - References-->
 ---
@@ -131,7 +162,7 @@ If you want to delete these usage instructions, please delete everything between
 <!-- TASK: Add the required data fields to the table below -->
 | Published Date | Main Blog Link | License | Date Copied Over | Copied By | Written By |
 | -------------- | -------------- | ------- | ---------------- | --------- | ---------- |
-| [PUBLISHED-DATE] | [[ARTICLE-TITLE]]([ARTICLE-TITLE-URL] "[ARTICLE-TITLE]") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | [COPIED-OVER-DATE] | [[YOUR-GITHUB-USERNAME]]([YOUR-GITHUB-URL] "[YOUR-GITHUB-USERNAME] on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
+| Jan 22, 2023 | [You do computers, right? - Poem](https://profcybernaught.hashnode.dev/you-do-computers-right-poem "You do computers, right? - Poem") | [Read License](./LICENSE.md "License Agreement - Cybersecurity Blog - ProfCyberNaught") | Dec 9, 2023 | [Moonswave](https://github.com/Moonswave "Moonswave on GitHub") | [ProfCyberNaught](https://github.com/ProfCyberNaught "ProfCyberNaught on GitHub") |
 
 <!-- FOOTER TABLE -->
 
